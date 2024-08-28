@@ -1,4 +1,4 @@
-# IT21284120-Intern-QA-Technical-Assessment
+# Intern-QA-Technical-Assessment
 
 1. Manual Testing Scenario
 2. Bug Report Writing
